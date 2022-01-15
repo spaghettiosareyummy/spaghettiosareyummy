@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @spaghettiosareyummy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me discord: spaghetti#3019
-
-<!---
-spaghettiosareyummy/spaghettiosareyummy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+    <br>
+    <a></a>
+    <h2 align = "center">Heyo! I am a student who enjoys creating games, bots, and anything cool like that. </a></h2>
+</p>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-7289da.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Arduino" src="https://img.shields.io/badge/arduino-%23323330.svg?style=for-the-badge&logo=arduino&logoColor=%008184"
+</p>
