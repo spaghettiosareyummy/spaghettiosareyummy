@@ -20,12 +20,13 @@
     Most of my repos are in organizations, thats why my stats are a bit weird.
     </a>
 <p align="center">
+  <a href ="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">
   <img src="https://lanyard.cnrad.dev/api/323216758313844736?bg=272d35&idleMessage=alive&hideDiscrim=true&bg=2d2363"></br>
 </a>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=spaghettiosareyummy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true&hide=stars&border_radius=10&hide_border=true" alt="My github stat" />
 </a>
     
