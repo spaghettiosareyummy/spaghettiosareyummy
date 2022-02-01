@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaghettiosareyummy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true&hide=stars&border_radius=10&hide_border=true" alt="My github stat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaghettiosareyummy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true&hide=stars&border_radius=10&hide_border=true"&custom_title=My Languages" alt="My github stat" />
 </a>
     
 <a>
