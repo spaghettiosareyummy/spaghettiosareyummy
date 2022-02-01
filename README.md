@@ -32,6 +32,6 @@
     
 <a>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghettiosareyummy&theme=dracula&layout=compact&border_radius=10&hide_border=true"&custom_title="Some interesting stats" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghettiosareyummy&theme=dracula&layout=compact&border_radius=10&hide_border=true" alt="Top Languages" />
 </a>
 </p>    
