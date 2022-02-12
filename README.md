@@ -4,9 +4,6 @@
     <h2 align = "center">Heyo! I am a student who enjoys creating games, bots, and anything cool like that. </a></h2>
 </p>
 <p align="center">
-<img alt="Lua" src="https://img.shields.io/badge/lua-1a6bc7.svg?style=for-the-badge&logo=lua&logoColor=ffffff"/><img alt="Python" src="https://img.shields.io/badge/python-7289da.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="HTML" src="https://img.shields.io/badge/html5-231f20.svg?style=for-the-badge&logo=html5&logoColor=f16529"/><img alt="Java" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Arduino" src="https://img.shields.io/badge/arduino-31373e.svg?style=for-the-badge&logo=arduino&logoColor=#008184"/>
-</p>
-<p align="center">
   <br>
  <a>
   Probably devoting more time to code than I should.
@@ -19,19 +16,39 @@
 <a>
     Most of my repos are in organizations, thats why my stats are a bit weird.
     </a>
+      
+<br>
+
+<details align="center">
+    <summary><h3>Tap to see which languages and tools I code in.</h3></summary>
+    <h3>Here ya go</h3>
+    <h2>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"></code>
+    <code><img height="70" src="https://code.visualstudio.com/assets/favicon.ico"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+    <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Git_format.png"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+    <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg"></code>
+    <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+    </h2>
+    </details>
+
+
+
 <p align="center">
   <a href ="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">
-  <img src="https://lanyard.cnrad.dev/api/323216758313844736?bg=272d35&idleMessage=alive&hideDiscrim=true&bg=2d2363"></br>
+  <img src="https://lanyard.cnrad.dev/api/323216758313844736?bg=272d35&idleMessage=alive&hideDiscrim=false&bg=2d2363"></br>
 </a>
 </p>
+    
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaghettiosareyummy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true&hide=stars&border_radius=10&hide_border=true"&custom_title="My Languages" alt="My github stat" />
-</a>
-    
-<a>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghettiosareyummy&theme=dracula&layout=compact&border_radius=10&hide_border=true" alt="Top Languages" />
-</a>
-</p>    
+    <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaghettiosareyummy&theme=dracula&layout=compact&border_radius=10&hide_border=true&custom_title=My Top Languages"/>
+    </a>
+</p>
