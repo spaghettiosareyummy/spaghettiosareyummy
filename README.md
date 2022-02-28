@@ -1,7 +1,7 @@
 
 <img width = 100% src= "https://capsule-render.vercel.app/api?type=waving&color=0:00008b,100:0000ff&height=180&section=header&text=Brandon%20Bowdoin&fontSize=30&fontColor=C8A2C8&animation=fadeIn&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&vCenter=true&width=1100&lines=Heyo!+This+little+graphic+will+tell+you+a+bit+about+me.;I+am+a+somewhat+programming-educated+student+;I+enjoy+the+following+super+generalized+categories%3A;Creating+Games%2C+Constructing+Bots%2C+and+Robotics;Thank+you+for+reading!)](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&hCenter=true&vCenter=true&width=1100&lines=Heyo!+This+little+graphic+will+tell+you+a+bit+about+me.;I+am+a+somewhat+programming-educated+student+;I+enjoy+the+following+super+generalized+categories%3A;Creating+Games%2C+Constructing+Bots%2C+and+Robotics;Thank+you+for+reading!)](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)
 
 <p align="center">
   <br>
