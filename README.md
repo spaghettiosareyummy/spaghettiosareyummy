@@ -5,20 +5,20 @@
 <p align="center">
   <br>
  <a>
-  Probably devoting more time to code than I should.
+  Trying my best
     </a>
   <br>
 <a>
-    At the moment, I am <i>learning</i> several code languages and applying them.
+    Currently attempting to learn website and software development.
     </a>
       <br>
 <a>
-    Most of my repos are in organizations, thats why my stats are a bit weird.
+    I strive to gain motivation for coding while mainting a balance
     </a>
 
 <br>
 
-<details align="center">
+<!-- <details align="center">
     <summary><h3>Tap to see which languages and tools I code in.</h3></summary>
     <h3>Here ya go</h3>
     <h2>
@@ -35,7 +35,7 @@
     <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg"></code>
     <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
     </h2>
-    </details>
+    </details> --!>
 
 
 
